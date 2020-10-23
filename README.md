@@ -4,7 +4,7 @@ This  is a simple application that warns you in text to speech if a moderator jo
 # Installation
 To use the program just install Dependencies:
 
-``pip install gTTS``
+``pip install pyttsx3``
 
 ``pip install discord``
 
